@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "726D4C331C87D26B00D77976"
-               BuildableName = "PicthPerfect.app"
-               BlueprintName = "PicthPerfect"
-               ReferencedContainer = "container:PicthPerfect.xcodeproj">
+               BuildableName = "PitchPerfect.app"
+               BlueprintName = "PitchPerfect"
+               ReferencedContainer = "container:PitchPerfect.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "726D4C471C87D26B00D77976"
-               BuildableName = "PicthPerfectTests.xctest"
-               BlueprintName = "PicthPerfectTests"
-               ReferencedContainer = "container:PicthPerfect.xcodeproj">
+               BuildableName = "PitchPerfect.xctest"
+               BlueprintName = "PitchPerfectTests"
+               ReferencedContainer = "container:PitchPerfect.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "726D4C521C87D26B00D77976"
-               BuildableName = "PicthPerfectUITests.xctest"
-               BlueprintName = "PicthPerfectUITests"
-               ReferencedContainer = "container:PicthPerfect.xcodeproj">
+               BuildableName = "PitchPerfect.xctest"
+               BlueprintName = "PitchPerfectUITests"
+               ReferencedContainer = "container:PitchPerfect.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "726D4C331C87D26B00D77976"
-            BuildableName = "PicthPerfect.app"
-            BlueprintName = "PicthPerfect"
-            ReferencedContainer = "container:PicthPerfect.xcodeproj">
+            BuildableName = "PitchPerfect.app"
+            BlueprintName = "PitchPerfect"
+            ReferencedContainer = "container:PitchPerfect.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "726D4C331C87D26B00D77976"
-            BuildableName = "PicthPerfect.app"
-            BlueprintName = "PicthPerfect"
-            ReferencedContainer = "container:PicthPerfect.xcodeproj">
+            BuildableName = "PitchPerfect.app"
+            BlueprintName = "PitchPerfect"
+            ReferencedContainer = "container:PitchPerfect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "726D4C331C87D26B00D77976"
-            BuildableName = "PicthPerfect.app"
-            BlueprintName = "PicthPerfect"
-            ReferencedContainer = "container:PicthPerfect.xcodeproj">
+            BuildableName = "PitchPerfect.app"
+            BlueprintName = "PitchPerfect"
+            ReferencedContainer = "container:PitchPerfect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
