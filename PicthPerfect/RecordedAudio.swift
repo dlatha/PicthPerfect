@@ -8,7 +8,7 @@
 // This is the basic model that has the recorded audio passed between the segues
 import Foundation
 
-class RecordedAudio: NSObject{
+class RecordedAudio{
     var filePathUrl: NSURL!
     var title: String!
     
